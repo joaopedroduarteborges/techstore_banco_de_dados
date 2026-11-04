@@ -33,4 +33,4 @@ Aplicar conceitos de modelagem e gerenciamento de bancos de dados, desenvolvendo
 
 João Pedro
 
-[GitHub](https://github.com/borgesjop-ceub)
+[GitHub](https://github.com/joaopedroduarteborges)
