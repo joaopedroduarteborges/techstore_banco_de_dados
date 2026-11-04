@@ -20,10 +20,22 @@ Projeto acadêmico desenvolvido durante o curso de Engenharia de Software, com o
 
 ## Estrutura do projeto
 
-- `database/`: estrutura e dados do banco.
-- `consultas/`: consultas SQL desenvolvidas.
-- `views/`: visualizações criadas.
-- `indices/`: índices utilizados.
+```text
+techstore_banco_de_dados/
+│
+├── README.md
+│
+├── Database/
+│   └── projeto.sql
+│
+├── consultas/
+│   ├── consultas.sql
+│   ├── subconsultas.sql
+│   └── views.sql
+│
+└── imagens/
+    └── DER_banco_loja.png
+```
 
 ## Objetivo acadêmico
 
